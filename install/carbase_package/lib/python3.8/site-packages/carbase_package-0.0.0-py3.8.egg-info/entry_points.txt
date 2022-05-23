@@ -1,0 +1,3 @@
+[console_scripts]
+carbase_node = carbase_package.carbase_node:main
+
